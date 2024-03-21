@@ -1,0 +1,30 @@
+{
+  "name": "harumnatus",
+  "version": "1.0.0",
+  "description": "A tiny NPM package to get the details of Ethereum forks",
+  "main": "index.js",
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeniferAufderhar/harumnatus.git"
+  },
+  "keywords": [
+    "officiis",
+    "molestias",
+    "EVM",
+    "Eth"
+  ],
+  "author": "LaviniaKunde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeniferAufderhar/harumnatus.git/issues"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
+  }
+}
